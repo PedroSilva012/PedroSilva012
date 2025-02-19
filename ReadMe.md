@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 Estudante de Front-End em busca de aprender e aplicar minhas habilidades em desenvolvimento web.<br>💼 Procurando Estágio para expandir meu conhecimento prático e contribuir com soluções criativas e funcionais.<br>📚 Apaixonado por aprender, sempre em busca de novos desafios e oportunidades para evoluir na área de desenvolvimento.
-
+🔭 Sou estudante de Desenvolvimento Front-end e Back-end, em busca de oportunidades para aprimorar e aplicar minhas habilidades na área de desenvolvimento web.
+💼 Atualmente, busco uma vaga de estágio que me permita expandir meu conhecimento prático, ao mesmo tempo em que contribuo com soluções criativas e eficientes.
+📚 Tenho grande paixão por aprender e estou constantemente em busca de novos desafios e oportunidades para evoluir profissionalmente na área de tecnologia e desenvolvimento.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedrinhoxt012) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100058589477858) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__pedrosilva012/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-silva-7550a831a/) 
