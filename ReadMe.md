@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 🔭 Sou estudante de Desenvolvimento Front-end e Back-end, em busca de oportunidades para aprimorar e aplicar minhas habilidades na área de desenvolvimento web.<br>💼 Atualmente, busco uma vaga de estágio que me permita expandir meu conhecimento prático, ao mesmo tempo em que contribuo com soluções criativas e eficientes.<br>📚 Tenho grande paixão por aprender e estou constantemente em busca de novos desafios e oportunidades para evoluir profissionalmente na área de tecnologia e desenvolvimento.
 
 ## 🌐 Socials:
