@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Pedro Silva, tenho 19 anos atualmente curso técnico em Informatica e ja fiz diversos cursos sobre programação.
+Me chamo Pedro Silva, tenho 20 anos atualmente curso técnico em Informatica e ja fiz diversos cursos sobre programação.
 
 
 
