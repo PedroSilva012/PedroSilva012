@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Pedro Silva
 
-**`Desenvolvedor Front-End`**
+**`Técnico em Informática | Desenvolvimento | Suporte de TI`**
 
 Me chamo Pedro Silva, tenho 20 anos atualmente curso técnico em Informatica e ja fiz diversos cursos sobre programação.
 
