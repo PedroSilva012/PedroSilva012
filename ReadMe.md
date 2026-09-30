@@ -1,72 +1,49 @@
-# 👩🏻‍💻 Pedro Silva
+# 👨🏻‍💻 Pedro Silva
 
-**`Técnico em Informática | Desenvolvimento | Suporte de TI`**
+`Técnico em Informática` | `Desenvolvimento` | `Suporte de TI`
 
-Me chamo Pedro Silva, tenho 20 anos atualmente curso técnico em Informatica e ja fiz diversos cursos sobre programação.
-
-
+Sou Técnico em Informática pelo Senac, com conhecimentos em desenvolvimento web, banco de dados, redes, hardware e suporte técnico. Tenho experiência acadêmica no desenvolvimento de sistemas e busco minha primeira oportunidade profissional na área de TI.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<!-- Mantenha aqui os ícones que você já utiliza -->
 
-<br/>
-<br/>
+---
 
+## 🛠️ Conhecimentos
+
+- 🖥️ **Hardware:** montagem, manutenção e diagnóstico de computadores
+- 🌐 **Redes:** TCP/IP, VLANs, DHCP, sub-redes e roteamento
+- 🪟 **Windows Server:** Active Directory, usuários, grupos e permissões
+- 🗄️ **Banco de Dados:** MySQL e SQL
+- 🌐 **Desenvolvimento Web:** HTML, CSS, JavaScript e PHP
+- 💻 **Programação:** C# e orientação a objetos
+- 🔧 **Ferramentas:** Git, GitHub, XAMPP, Cisco Packet Tracer, Visual Studio e VS Code
+
+---
+
+## 🚀 Projetos
+
+Aqui no meu GitHub você encontra projetos desenvolvidos durante minha formação e estudos, envolvendo desenvolvimento web, banco de dados, programação e infraestrutura de TI.
+
+### 🏙️ Obras da Cidade
+Sistema desenvolvido como Projeto Integrador, utilizando **PHP, MySQL, HTML, CSS, JavaScript e C#**, com funcionalidades de gerenciamento de obras e usuários.
+
+➡️ Confira o projeto nos meus repositórios.
+
+---
+
+## 📚 Formação
+
+🎓 **Técnico em Informática — Senac**  
+Concluído em setembro de 2026
+
+📘 Cursos complementares em programação, lógica de programação, informática e outras áreas de tecnologia.
+
+---
+
+## 📫 Contato
+
+💼 **LinkedIn:** linkedin.com/in/pedro-silva012
