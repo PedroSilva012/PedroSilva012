@@ -2,7 +2,7 @@
 
 `Técnico em Informática` | `Desenvolvimento` | `Suporte de TI`
 
-Sou Técnico em Informática pelo Senac, com conhecimentos em desenvolvimento web, banco de dados, redes, hardware e suporte técnico. Tenho experiência acadêmica no desenvolvimento de sistemas e busco minha primeira oportunidade profissional na área de TI.
+Olá! Sou Pedro Silva, tenho 20 anos e sou formado no curso Técnico em Informática pelo Senac. Gosto de tecnologia e estou sempre buscando aprender e desenvolver novos projetos. Atualmente, busco uma oportunidade na área de TI para iniciar minha carreira, adquirir experiência profissional e colocar meus conhecimentos em prática.
 
 ---
 
